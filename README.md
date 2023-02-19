@@ -1,1 +1,1 @@
-# Tema1-JS
+# Teme JS
